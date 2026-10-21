@@ -1,0 +1,7 @@
+asset_id,latitude,longitude,category,status_operational
+AST001,-3.799,102.259,Hub,Active
+AST002,-3.800,102.260,Cabang,Active
+AST003,-3.780,102.270,Cabang,Active
+AST004,-3.850,102.350,Gudang,Inactive
+AST005,-3.710,102.210,Cabang,Active
+AST006,-3.810,102.240,Cabang,Active
